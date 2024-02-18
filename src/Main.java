@@ -79,7 +79,6 @@ public class Main {
         if (days == -1){
             System.out.println( " Доставки нет ");
         };
-
         System.out.println( " Задание 5");
         int monthNumber = 14;
         switch ( monthNumber) {
